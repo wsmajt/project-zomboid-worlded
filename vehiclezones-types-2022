@@ -1,0 +1,23 @@
+All the zones at the moment of posting are:
+parkingstall         |Parking Stall, common parking stall with random cars, the most used one (shop parking lots, houses etc.)
+trailerpark             |Trailer Parks, have a chance to spawn burnt cars, some on top of each others, it's like a pile of junk cars
+bad                     |Bad vehicles, moslty used in poor area, sometimes around pub etc.
+medium                 |Medium vehicles, used in some of the good looking area, or in suburbs
+good                 |Good vehicles, used in good looking area, they're meant to spawn only good cars, so they're on every good looking house.
+sport                 |Sports vehicles, sometimes on good looking area.
+junkyard             |Junkyard, spawn damaged & burnt vehicles, less chance of finding keys but more cars. Also used for the random car crash.
+trafficjamw
+trafficjame
+trafficjamn
+trafficjams             |Traffic jams by cardinal direction, mostly burnt car & damaged ones. Used either for hard coded big traffic jam or smaller random ones.
+police                 |Police department vehicles
+fire                 |Fire dept
+ranger                 |Ranger police vehicle
+mccoy                 |McCoy Lumber vehicles
+postal                 |Postal (mail) vehicle
+spiffo                 |Spiffo branded vehicle
+ambulance             |Ambulance
+radio                 |Local radio station vehicle
+fossoil                 |Fossoil branded vehicle
+normalburnt
+specialburnt         |When spawning burnt vehicles for any zones, 20% will be pick in special burnt vehicles and 80% in the normal burnt vehicles list
